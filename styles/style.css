@@ -313,7 +313,7 @@ justify-content: space-between;
   padding: 0;
   padding-bottom: 20px;
   line-height: 30px;
-  font-size: 18x;
+  font-size: 18px;
   font-weight:700;
 }
 .footer__links {
@@ -335,7 +335,7 @@ ul {
 
 .footer__link{
   line-height: 30px;
-  font-size: 18x;
+  font-size: 18px;
   font-weight:normal;
   text-decoration: none;
   color:white;
