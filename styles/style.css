@@ -243,7 +243,7 @@ z-index: 6;
   display: flex;
   flex-direction: column;
   align-items: center;
-  background-color:#1f1f1f ;
+  background-color:#1f1f1f;
 }
 
 .section-title__theme_dark{
@@ -299,7 +299,7 @@ justify-content: space-between;
   padding-top: 18px;
   padding-bottom: 18px;
   line-height: 25px;
-  font-size: 18x;
+  font-size: 18px;
   font-weight:normal;
   font-style: normal;
 }
@@ -317,14 +317,14 @@ justify-content: space-between;
   font-weight:700;
 }
 .footer__links {
-  list-style-type: none; 
+  list-style-type: none;
   margin: 0;
   padding: 0;
   padding-bottom: 16px;
 }
 
 ul { 
-  list-style-type: none; 
+  list-style-type: none;
   margin: 0;
   padding: 0;
 }
