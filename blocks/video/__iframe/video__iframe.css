@@ -1,0 +1,8 @@
+.video__iframe{
+    margin: 0 auto;
+    list-style-type: none;
+    text-align: center;
+}
+.video__iframe:first-of-type{
+    padding-right: 20px;
+}

@@ -3,7 +3,8 @@
     padding: 0;
     border: 0px;
     max-width: 920px;
+    box-sizing: border-box;
     display: flex;
     flex-wrap: wrap;
-    justify-content: space-between;
+    justify-content: flex-start;
   }
