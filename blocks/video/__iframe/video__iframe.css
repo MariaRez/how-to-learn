@@ -1,7 +1,9 @@
 .video__iframe{
+    border-style: none;
     margin: 0 auto;
-    list-style-type: none;
     text-align: center;
+    width: 515px;
+    height: 316px;
 }
 .video__iframe:first-of-type{
     padding-right: 20px;

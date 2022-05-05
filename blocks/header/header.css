@@ -9,6 +9,6 @@
     align-items:center;
     padding-left: 64px;
     position:relative;
-    z-index: 2;
+    z-index: 0;
     overflow: hidden;
   }

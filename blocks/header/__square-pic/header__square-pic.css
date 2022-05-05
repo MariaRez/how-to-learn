@@ -5,6 +5,5 @@
     top:64px;
     right: 0;
     background-color: #2F80ed;
-    z-index: -2;
-    animation: rotation 20s linear infinite;
+    z-index: -3;
   }
